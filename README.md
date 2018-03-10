@@ -1,2 +1,2 @@
-# new-baltimore
-Company site for property management site
+# New Baltimore
+Company website for property management company
