@@ -197,6 +197,13 @@ a#logo:hover {
 	font-weight: 300;
 }
 
+#intro .alert {
+	font-weight: bold;
+	color:#da635d;
+	text-transform:uppercase;
+	margin-bottom: 2.0em;
+}
+
 #divider {
 	position: absolute;
 	left: 50%;
