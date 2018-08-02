@@ -7,5 +7,4 @@ Company website for property management company
 - Domain from [Namecheap]()
 
 ### Credits
-Based on [Breeze - Portfolio](https://creativemarket.com/loveui/2887-Breeze-Portfolio-%28HTMLCSSPSD%29) by [LoveUI.co](https://loveui.co)
-
+Site based on [Breeze - Portfolio](https://creativemarket.com/loveui/2887-Breeze-Portfolio-%28HTMLCSSPSD%29) template by [Ben Bate](https://benbate.com) of [LoveUI.co](https://loveui.co). Bungaleau names by [Rainbeau](http://www.rainbeauphoto.com). Bungaleau logo created by [Miguel](http://keeptrucha.tumblr.com).
