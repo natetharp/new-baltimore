@@ -128,6 +128,10 @@ p {
 	color: #848a91;
 }
 
+em {
+	font-style:italic;
+}
+
 #container {
 	width: 1028px;
 	margin: 0 auto;
@@ -157,7 +161,7 @@ a#logo {
 	margin: 77px 0 0 -28px;
 	width: 56px;
 	height: 58px;
-	background: url(images/logo.png);
+	background: url(img/logo.png);
 	background-size: 56px 58px;
 }
 
@@ -186,9 +190,9 @@ a#logo:hover {
 
 #intro {
 	font-size: 16px;
-	width: 100%;
+	width: 70%;
 	text-align: center;
-	margin-top: 50px;
+	margin: 50px auto 0;
 	font-family: 'Merriweather', serif;
 	font-weight: 300;
 }
@@ -265,19 +269,20 @@ a#logo:hover {
 	text-transform: uppercase;
 }
 
-#hireme {
+#learn-more {
 	width: 100%;
 	text-align: center;
 	margin: 0 0 75px 0;
 }
 
-#hireme a {
+#learn-more a {
 	font-weight: 700;
 	font-size: 13px;
+	text-transform:uppercase;
 	color: #949ba3;
 	border: 2px solid #9FA7B0;
 	border-radius: 60px;
-	padding: 11px 19px 12px 19px;
+	padding: 11px 29px 12px 29px;
 	-o-transition:all .2s ease-out, background 0.5s ease-in;
 	-ms-transition:all .2s ease-out, background 0.5s ease-in;
 	-moz-transition:all .2s ease-out, background 0.5s ease-in;
@@ -286,7 +291,7 @@ a#logo:hover {
 	text-shadow: 0 1px 0 #eee;
 }
 
-#hireme a:hover {
+#learn-more a:hover {
 	border: 2px solid #2D72D9;
 	color: #2b6ccd;
 }
@@ -317,7 +322,7 @@ footer {
   	padding: 0 10%;
   }
 
-  #work a img {
+  #work img {
 	width: 100%;
   }  
         
@@ -352,7 +357,7 @@ footer {
 	margin-bottom: 50px;
   }
 
-  #hireme {
+  #learn-more {
 	margin: 0 0 60px 0;
   }
 
@@ -368,7 +373,7 @@ only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min-device-pixel-ratio: 1.5) {
 
 	a#logo {
-	background: url(images/logo@2x.png);
+	background: url(img/logo@2x.png);
 	}
 
 }
